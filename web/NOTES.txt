@@ -1,0 +1,4 @@
+        *****REACT*****
+
+-Componentes:
+    é uma função com nome iniciando com letra maiuscula, que retorna um conjunto de tags em HTML

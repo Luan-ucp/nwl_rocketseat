@@ -1,0 +1,5 @@
+npm run build  -> gera arquivo .js a partir de .ts (typescript)
+
+"rootDir": "./src", -> no arquivo tsconfig.json, este campo indica qualo diretório é o raiz
+
+"outDir": "./build",  -> no arquivo tsconfig.json, este campo cria uma pasta para colocar os arquivos .js depois de gerar arquivos .js a partir de .ts
